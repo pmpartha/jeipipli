@@ -1,0 +1,455 @@
+.error {
+    color: red;
+}
+#ct, a, h1, h2, h3, h4, h5, h6, span, p, div, label, li, ul{
+    font-family: Raleway  !important;
+}
+
+#ct .ct-fixed-background {
+    background: #e1fbfb !important;
+}
+/* primary color */
+.cleanto{
+    color: #666666 !important;
+}
+.cleanto .ct-link.ct-mybookings{
+    padding: 3px 10px;
+    border-radius: 2px;
+    text-decoration: none !important;
+    color:#ffffff !important;
+    background:#00cded !important;
+}
+.cleanto .ct-link.ct-mybookings:hover{
+    border-radius: 3px;
+    color:#ffffff !important;
+    background:#3d3d3d !important;
+}
+.cleanto .ct-main-left .ct-list-header .ct-logged-in-user a.ct-link,
+.cleanto .ct-complete-booking-main .ct-link,
+.cleanto .ct-discount-coupons a.ct-apply-coupon.ct-link{
+    color: #3d3d3d !important;
+}
+.cleanto .ct-link:hover,
+.cleanto .ct-main-left .ct-list-header .ct-logged-in-user a.ct-link:hover,
+.cleanto .ct-complete-booking-main .ct-link:hover,
+.cleanto .ct-discount-coupons a.ct-apply-coupon.ct-link:hover{
+    color: #00cded !important;
+}
+.cleanto a,
+.cleanto .ct-link,
+.cleanto .ct-addon-count .ct-btn-group .ct-btn-text{
+    color: #666666 !important;
+}
+.cleanto a.ct-back-to-top i.icon-arrow-up,
+.cleanto .calendar-wrapper .calendar-header a.next-date:hover .icon-arrow-right:before,
+.cleanto .calendar-wrapper .calendar-header a.previous-date:hover .icon-arrow-left:before{
+    color: #ffffff !important;
+}
+.cleanto .calendar-body .ct-week:hover a span,
+.cleanto .ct-extra-services-list ul.addon-service-list li .ct-addon-ser:hover .addon-price{
+    color: #ffffff !important;
+}
+.cleanto #ct-type-2 .service-selection-main .ct-services-dropdown .ct-service-list:hover,
+.cleanto #ct-type-method .ct-services-method-dropdown .ct-service-method-list:hover,
+.cleanto .common-selection-main .common-data-dropdown .data-list:hover{
+    color: #ffffff !important;
+    background:#3d3d3d !important;
+}
+.cleanto .selected-is:hover,
+.cleanto #ct-type-2 .service-is:hover,
+.cleanto #ct-type-method .service-method-is:hover{
+    border-color:#3d3d3d !important;
+}
+.cleanto .ct-extra-services-list ul.addon-service-list li .ct-addon-ser:hover span:before{
+    border-top-color:#3d3d3d !important;
+}
+
+.cleanto .calendar-wrapper .calendar-header a.next-date:hover,
+.cleanto .calendar-wrapper .calendar-header a.previous-date:hover,
+.cleanto .calendar-body .ct-week:hover{
+    background:#00cded !important;
+}
+.cleanto .calendar-body .ct-show-time .time-slot-container ul li.time-slot{
+    background:#3d3d3d !important;
+}
+.cleanto .calendar-body .dates .ct-week.by_default_today_selected.active_today span,
+.cleanto .calendar-body .ct-show-time .time-slot-container ul li.time-slot,
+.cleanto .calendar-body .dates .ct-week.active span {
+    color:#ffffff !important;
+}
+.cleanto .calendar-header a.previous-date,
+.cleanto .calendar-header a.next-date{
+    color:#ffffff !important;
+}
+
+.cleanto .ct-custom-checkbox  ul.ct-checkbox-list label:hover span,
+.cleanto .ct-custom-radio ul.ct-radio-list label:hover span{
+    border:1px solid #00cded !important;
+}
+#ct-login .ct-main-forget-password .ct-info-btn,
+.cleanto button,
+.cleanto #ct-front-forget-password .ct-front-forget-password .ct-info-btn,  
+.cleanto .ct-button{
+    color:#ffffff !important;
+    background:#3d3d3d !important;
+    border: 2px solid #3d3d3d !important;
+}
+.cleanto .ct-display-coupon-code .ct-coupon-value{
+    color: #ffffff !important;
+    background:#00cded !important;
+}
+/* for front date legends */
+.cleanto .calendar-body .ct-show-time .time-slot-container .ct-slot-legends .ct-available-new {
+    background: #3d3d3d !important;
+}
+.cleanto .calendar-body .ct-show-time .time-slot-container .ct-slot-legends .ct-selected-new{
+    background: #00cded !important;
+}
+/* seconday color */
+.nicescroll-cursors{
+    background-color: #00cded !important;
+}
+        
+.cleanto .calendar-body .dates .ct-week.active,
+.cleanto .calendar-body .ct-show-time.shown{
+    background: #00cded !important;
+}
+/* background color all css  HOVER */
+
+.cleanto .ct-selected,
+.cleanto .ct-selected-data,
+.cleanto .ct-provider-list ul.provders-list li input[type='radio']:checked + lable span,
+.cleanto .ct-list-services ul.services-list li input[type='radio']:checked + lable span,
+.cleanto .ct-extra-services-list ul.addon-service-list li input[type='checkbox']:checked label span,
+.cleanto .ct-discount-list ul.ct-discount-often li input[type='radio']:checked + .ct-btn-discount,
+.cleanto #ct-tslots .ct-date-time-main .time-slot-selection-main .time-slot.ct-selected,
+.cleanto .ct-button:hover,
+.cleanto-login .ct-main-forget-password .ct-info-btn:hover,
+.cleanto #ct-front-forget-password .ct-front-forget-password .ct-info-btn:hover,
+.cleanto  input[type='submit']:hover,
+.cleanto  input[type='reset']:hover,
+.cleanto  input[type='button']:hover,
+.cleanto  button:hover{
+    color: #ffffff !important;
+    background: #00cded !important;
+    border-color: #00cded !important;
+}
+.cleanto .ct-step-heading{
+    font-weight: 600;
+    color: #ffffff !important;
+    background: #00cded !important;
+    border-color: #00cded !important;
+}
+.cleanto #ct-price-scroll{
+    position: relative;
+}
+
+.cleanto .ct-cart-wrapper .ct-cart-label-total-amount,
+.cleanto .ct-cart-wrapper .ct-cart-total-amount{
+    color: #00cded !important;
+}
+
+.cleanto .ct-list-services ul.services-list li input[type='radio']:checked + .ct-service ,
+.cleanto .ct-provider-list ul.provders-list li input[type='radio']:checked + .ct-provider ,
+.cleanto .ct-extra-services-list ul.addon-service-list li input[type='checkbox']:checked + .ct-addon-ser {
+    border-color: #00cded !important;
+    box-shadow: 0 0 10px 1px #00cded !important;
+}
+.cleanto .ct-extra-services-list ul.addon-service-list li input[type='checkbox']:checked + .ct-addon-ser span:before{
+    border-top-color: #00cded !important;
+}
+.cleanto .ct-extra-services-list ul.addon-service-list li input[type='checkbox']:checked + .ct-addon-ser .addon-price{
+    color: #ffffff !important;
+}
+
+
+.cleanto .border-c:hover,
+.cleanto .ct-list-services ul.services-list li .ct-service:hover,
+.cleanto .ct-list-services ul.addon-service-list li .ct-addon-ser:hover,
+.cleanto #ct-meth-unit-type-2.ct-meth-unit-count .bedroom-box .ct-bedroom-btn:hover,
+.cleanto #ct-meth-unit-type-2.ct-meth-unit-count .bathroom-box .ct-bathroom-btn:hover,
+.cleanto #ct-duration-main.ct-service-duration .ct-duration-list .duration-box .ct-duration-btn:hover,
+.cleanto .ct-extra-services-list .ct-addon-extra-count .ct-common-addon-list .ct-addon-box .ct-addon-btn:hover,
+.cleanto .ct-discount-list ul.ct-discount-often li .ct-btn-discount:hover,
+.cleanto .ct-custom-radio ul.ct-radio-list label:hover span,
+.cleanto .ct-custom-checkbox  ul.ct-checkbox-list label:hover span{
+    border-color: #3d3d3d !important;
+    
+}
+
+
+.cleanto .ct-custom-checkbox  ul.ct-checkbox-list input[type='checkbox']:checked + label span{
+    border: 1px solid #00cded !important;
+    background: #00cded !important;
+}
+.cleanto .ct-custom-radio ul.ct-radio-list input[type='radio']:checked + label span{
+    border:5px solid #00cded !important;
+}
+.cleanto #ct-meth-unit-type-2.ct-meth-unit-count .bedroom-box .ct-bedroom-btn.ct-bed-selected,
+.cleanto #ct-meth-unit-type-2.ct-meth-unit-count .bathroom-box .ct-bathroom-btn.ct-bath-selected,
+.cleanto #ct-duration-main.ct-service-duration .ct-duration-list .duration-box .ct-duration-btn.duration-box-selected,
+.cleanto .ct-extra-services-list .ct-addon-extra-count .ct-common-addon-list .ct-addon-box .ct-addon-selected{
+    background: #00cded !important;
+    color: #ffffff !important;
+    border-color: #00cded !important;
+}
+
+.cleanto .ct-button.ct-btn-abs,
+.cleanto .calendar-header,
+.cleanto .panel-login .panel-heading .col-xs-6,
+.cleanto a.ct-back-to-top {
+    background-color: #3d3d3d !important;
+}
+.cleanto a.ct-back-to-top:hover,
+.cleanto .weekdays{
+    background-color: #00cded !important;
+}
+
+.cleanto .calendar-body .dates .ct-week.by_default_today_selected{
+    background-color: #3d3d3d !important;
+}
+.cleanto .calendar-body .dates .ct-week.by_default_today_selected a span{
+    color: #ffffff !important;
+}
+
+.cleanto .calendar-body .dates .ct-week.selected_date.active{
+    background-color: #00cded !important;
+    border-bottom: thin solid #00cded !important;
+}
+.cleanto .calendar-body .ct-show-time .time-slot-container ul li.time-slot:hover,
+.cleanto .calendar-body .ct-show-time.shown{
+    background-color: #00cded !important;
+}
+
+.cleanto .calendar-body .ct-show-time .time-slot-container ul li.time-slot.ct-booked{
+    background-color: #ff0000 !important;
+}
+
+.cleanto .calendar-body .ct-show-time .time-slot-container ul li.time-slot.ct-closed{
+    background-color: #3f7505 !important;
+}
+
+
+.cleanto #ct-meth-unit-type-2.ct-meth-unit-count .bedroom-box .ct-bedroom-btn.ct-bed-selected,
+.cleanto #ct-meth-unit-type-2.ct-meth-unit-count .bathroom-box .ct-bathroom-btn.ct-bath-selected,
+.cleanto #ct-duration-main.ct-service-duration .ct-duration-list .duration-box .ct-duration-btn.duration-box-selected,
+.cleanto .ct-extra-services-list .ct-addon-extra-count .ct-common-addon-list .ct-addon-box .ct-addon-selected{
+    /* background: #00cded !important; */
+}
+
+
+
+/* hover inputs */
+.cleanto input[type='text']:hover,
+.cleanto input[type='password']:hover,
+.cleanto input[type='email']:hover,
+.cleanto input[type='url']:hover,
+.cleanto input[type='tel']:hover,
+.cleanto input[type='number']:hover,
+.cleanto input[type='range']:hover,
+.cleanto input[type='date']:hover,
+.cleanto textarea:hover,
+.cleanto select:hover,
+.cleanto input[type='search']:hover,
+.cleanto input[type='submit']:hover,
+.cleanto input[type='button']:hover{
+    border-color: #3d3d3d !important;
+}
+
+/* Focus inputs */
+.cleanto input[type='text']:focus,
+.cleanto input[type='password']:focus,
+.cleanto input[type='email']:focus,
+.cleanto input[type='url']:focus,
+.cleanto input[type='tel']:focus,
+.cleanto input[type='number']:focus,
+.cleanto input[type='range']:focus,
+.cleanto input[type='date']:focus,
+.cleanto textarea:focus,
+.cleanto select:focus,
+.cleanto input[type='search']:focus,
+.cleanto input[type='submit']:focus,
+.cleanto input[type='button']:focus{
+    border-color: #00cded !important;
+    /* box-shadow: 0 0 0 1.5px #00cded inset !important; */
+}
+.cleanto .ct-tooltip-link {color: #00cded !important;}
+/* for custom css option */
+
+
+
+.ct_method_tab-slider--nav {
+  width: 100%;
+  float: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.ct_method_tab-slider-tabs {
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  overflow: hidden;
+  background: #3d3d3d !important;
+  height: 50px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.ct_method_tab-slider-tabs:after {
+  content: '';
+  width: 25%;
+  background: #00cded !important;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -110px !important;
+  -webkit-transition: all 250ms ease-in-out;
+  transition: all 250ms ease-in-out;
+}
+
+.ct_method_tab-slider-tabs.ct_methods_slide:after {
+  left: 0%;
+}
+
+.ct_method_tab-slider-trigger {
+  font-weight: bold;
+  color: #ffffff !important;
+  text-align: center;
+  padding: 11px 30px;
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+  display: inline-block;
+  -webkit-transition: color 250ms ease-in-out;
+  transition: color 250ms ease-in-out;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.ct_method_tab-slider-trigger.active {
+  color: #ffffff !important;
+  
+}
+ul.ct_methods_slide{
+    height:auto !important;
+}
+
+
+ul.ct_methods_slide li.ct_method_tab-slider-trigger{
+    width:200px;
+    vertical-align: -webkit-baseline-middle;
+    vertical-align: -moz-middle-with-baseline;
+}
+
+
+.header3{
+    font-family: 'Julius Sans One', sans-serif !important; */
+    font-size: 20px !important;
+    letter-spacing: 0 !important;
+}
+#login_existing_user:hover,
+.today_btttn:hover,
+.ct-button.ct-btn-big:hover{
+    border-radius: unset !important;
+}
+#ct #ct-not-scroll.border-c:hover{
+    border: unset !important;
+}
+#ct #ct-not-scroll.border-c{
+    border: unset !important;
+}
+.ct-price-scroll{
+    border: unset !important;
+}
+.ct-price-scroll:hover{
+    border: unset !important;
+}
+.ct-button.ct-btn-big{
+    /* box-shadow: 0 6px #000000; */
+    -webkit-transition: none;
+    -moz-transition: none;
+    transition: none;
+}
+
+.ct-button.ct-btn-big::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.ct-button.ct-btn-big:hover {
+    box-shadow: 0 4px #000000;
+    top: 2px;
+}
+.ct-button.ct-btn-big:active {
+    box-shadow: 0 0 #000000;
+    top: 6px;
+}
+.ct-button.ct-btn-big::before {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+}
+
+.ct-service-img img{
+    -webkit-transition: all 0.3s ease; /* Safari and Chrome */
+    -moz-transition: all 0.3s ease; /* Firefox */
+    -o-transition: all 0.3s ease; /* IE 9 */
+    -ms-transition: all 0.3s ease; /* Opera */
+    transition: all 0.3s ease;
+}
+.ct-service-img img:hover{
+    -webkit-transform:scale(1.10); /* Safari and Chrome */
+    -moz-transform:scale(1.10); /* Firefox */
+    -ms-transform:scale(1.10); /* IE 9 */
+    -o-transform:scale(1.10); /* Opera */
+     transform:scale(1.10);
+}
+
+.ct_recurrence_type_dropdown{
+    width:50% !important;
+    margin-left: 15px;
+    margin-top: 9px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e5e5e5;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    position: relative;
+}
+
+.ct_recurrence_type_dropdown_1:after{
+    content: "\e604";
+    font-family: 'simple-line-icons';
+    position: absolute;
+    top: 47.5%;
+    left: 48%;
+    z-index: 99;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+}
+.rtype {
+    text-indent: 14px;
+    padding-top: 50px;
+}
+.cleanto .calendar-body .ct-show-time .time-slot-container ul li.time-slot.ct-slot-booked {
+  background: #ff0000;
+}
